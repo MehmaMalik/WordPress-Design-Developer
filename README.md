@@ -1,1 +1,1 @@
-# WordPress-Design-Developer
+# WordPress-Design-and-Developer
